@@ -8,6 +8,7 @@
     --dark0:    #242424;
     --dark1:    #202020;
     --dark2:    #393939;
+    --dark3:    #424242;
     --light0:   #d8dee9;
     --light1:   #e5e9f0;
     --light2:   #eceff4;
@@ -145,9 +146,9 @@ body
     /* table */
     --table-header-background:       var(--teal4);
     --table-header-background-hover: var(--teal3);
-    --table-row-even-background:     hsl(0, 0%, 100%);
-    --table-row-odd-background:      hsl(0, 0%, 37%);
-    --table-row-background-hover:    var(--dark2);
+    --table-row-even-background:     var(--dark3);
+    --table-row-odd-background:      var(--dark2);
+    --table-row-background-hover:    var(--frost5);
 
     --text-selection:                var(--teal4);
     --flashing-background:           var(--teal4);
