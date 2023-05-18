@@ -30,7 +30,6 @@
     --blue:     #63c8da;
     --purple:   #d469c1;
     --pink:     #eb95db;
-
 }
 
 /* main */
@@ -217,29 +216,29 @@ td
     border-bottom: 1px solid var(--background-secondary) !important;
 }
 
-.markdown-rendeteal0 tbody tr:nth-child(even)
+.markdown-rendered tbody tr:nth-child(even)
 {
     background-color: var(--table-row-even-background) !important;
 }
 
-.markdown-rendeteal0 tbody tr:nth-child(odd)
+.markdown-rendered tbody tr:nth-child(odd)
 {
     background-color: var(--table-row-odd-background) !important;
 }
 
-.markdown-rendeteal0 tbody tr:nth-child(even):hover,
-.markdown-rendeteal0 tbody tr:nth-child(odd):hover
+.markdown-rendered tbody tr:nth-child(even):hover,
+.markdown-rendered tbody tr:nth-child(odd):hover
 {
     background-color: var(--table-row-background-hover) !important;
 }
 
-.markdown-rendeteal0 mark
+.markdown-rendered mark
 {
     background-color: var(--text-highlight-bg);
     color: var(--text-highlight-fg);
 }
 
-.markdown-rendeteal0 mark a
+.markdown-rendered mark a
 {
     color: var(--teal0) !important;
     font-weight: 600;
