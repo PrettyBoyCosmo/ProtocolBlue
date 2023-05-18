@@ -16,3 +16,6 @@ ProtocolBlue, a [Cosmodium CyberSecurity](https://cosmodiumcs.com) inspired Obsi
 <img src="https://github.com/PrettyBoyCosmo/ProtocolBlue/blob/main/assets/image1.png"/>
 <img src="https://github.com/PrettyBoyCosmo/ProtocolBlue/blob/main/assets/image2.png"/>
 <img src="https://github.com/PrettyBoyCosmo/ProtocolBlue/blob/main/assets/image3.png"/>
+
+## Credits:
+- inspired from : [Obsidian Nord Theme](https://github.com/insanum/obsidian_nord)
