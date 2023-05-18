@@ -1,6 +1,8 @@
 # ProtocolBlue
-> bluecosmo
+> created by : bluecosmo
 ---
+
+<img src="https://github.com/PrettyBoyCosmo/ProtocolBlue/blob/main/assets/thumbnail.png"/>
 
 ## Overview:
 ProtocolBlue, a [Cosmodium CyberSecurity](https://cosmodiumcs.com) inspired Obsidian theme.
@@ -8,6 +10,9 @@ ProtocolBlue, a [Cosmodium CyberSecurity](https://cosmodiumcs.com) inspired Obsi
 ## Resources:
 - [YouTube Channel](https://youtube.com/cosmodiumcs)
 - [Website](https://cosmodiumcs.com)
+- [Obsidian](https://obsidian.md)
 
 ## Showcase:
-coming soon...
+<img src="https://github.com/PrettyBoyCosmo/ProtocolBlue/blob/main/assets/image1.png"/>
+<img src="https://github.com/PrettyBoyCosmo/ProtocolBlue/blob/main/assets/image2.png"/>
+<img src="https://github.com/PrettyBoyCosmo/ProtocolBlue/blob/main/assets/image3.png"/>
