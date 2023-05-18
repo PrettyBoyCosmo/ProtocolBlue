@@ -171,7 +171,7 @@ body
     --nav-file-tag:                  var(--teal2);
 
     /* graphs */
-    --graph-line:                    var(--light3);
+    --graph-line:                    var(--dark2);
     --graph-node:                    var(--teal2);
     --graph-node-tag:                var(--teal4);
     --graph-node-attachment:         var(--teal1);
